@@ -1,8 +1,8 @@
-# ${{\color{#ff7391}{\textbf{Kawaii}}}\textbf{Urn}}\$ 
+# ${{\color{#ff7391}{\textbf{Kawaii }}}\textbf{Urn}}\$ 
 **The** ${{\color{#ff7391}{\textbf{Cutest}}}}\$ and ${{\color{#ff7391}{\textbf{Pinkest}}}}\$ [Urn](https://github.com/paoloose/urn) Theme.
 <p>
-  <img src="assets/ex-cs.png">
-  <img src="assets/ex-cs-even.png">
+  <img src="https://github.com/mellowawa/kawaii-urn/blob/main/assets/ex-cs.png">
+  <img src="https://github.com/mellowawa/kawaii-urn/blob/main/assets/ex-cs-even.png">
 </p>
 
 ## Installation
