@@ -5,6 +5,9 @@
   <img src="https://github.com/mellowawa/kawaii-urn/blob/main/assets/ex-cs-even.png">
 </p>
 
+## Fonts
+The Default font for this theme is [Cherry Bomb One](https://fonts.google.com/specimen/Cherry+Bomb+One). As a fallback Noto Sans is used
+
 ## Installation
 There is *no* installation script provided with this. Installation is done via the [urn-settings](https://github.com/mellowawa/urn-settings) tool.
 
