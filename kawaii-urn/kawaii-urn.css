@@ -12,11 +12,11 @@
 @define-color accent-text #ff315e;
 @define-color accent-text-even #864b23;
 @define-color time-text #5a4454;
-@define-color behind-bg #f99b5c;
-@define-color sob-bg #ffd47e;
-@define-color ahead-bg #a6f069;
-@define-color done-bg #89b4fa;
-@define-color losing-bg #ff6262;
+@define-color behind-bg #f998ad;
+@define-color sob-bg #ffd694;
+@define-color ahead-bg #c8f09a;
+@define-color done-bg #c3defa;
+@define-color losing-bg #ff8082;
 @define-color box-ahead #6bb61a;
 @define-color box-behind #ff7733;
 @define-color box-losing #f73505;
@@ -28,9 +28,9 @@ scrollbar* { background-color: transparent; border: none; color: transparent; }
 
 .window, .header { background-color: @default-background; color: @default-text; padding-bottom: 2px; margin-bottom: 7px; }
 
-.header { background-color: @accent; color: @accent-fg; padding-right: 10px; border-radius: 30px; }
+.header { background-color: @accent; color: @accent-fg; padding-right: 10px; border-radius: 30px; font-weight: 900; }
 
-.title { font-size: 16pt; }
+.title { font-size: 16pt; font-weight: 900; }
 
 .attempt-count { color: alpha(@accent-fg,0.5); font-size: 12pt; font-weight: 700; padding-top: 6px; padding-bottom: 2px; margin-right: 2px; }
 
